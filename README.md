@@ -82,9 +82,9 @@ dataset_path = "/content/IRIS.csv"
 
 ## Dataset and outputs
 
-Use the Iris CSV from the assignment. Download it separately; this project package contains the code, README, and dependency file.
+Use the Iris CSV.Download it separately; this project package contains the code, README, and dependency file.
 
-Add the original dataset source link here before publishing.
+ Dataset source link : https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
 The script prints the first 10 rows, dataset information, summary statistics, matching flower records, species statistics, and average petal ratios. Run the script on your assignment dataset before adding numerical findings to this README.
 
@@ -92,4 +92,4 @@ The script prints the first 10 rows, dataset information, summary statistics, ma
 
 I am building practical Python and Pandas skills for data analysis. I connect data inspection, filtering, and grouped statistics with feature creation as I progress from data preparation towards machine learning.
 
-This project demonstrates my data analysis foundations. I create a feature in this project; I have not trained or evaluated a machine learning model here.
+This project demonstrates my data analysis foundations.
